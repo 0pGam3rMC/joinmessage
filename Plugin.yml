@@ -1,0 +1,14 @@
+name: OPjoinPlugin
+author: 0Pgam3rMC
+api:[3.0.0,ALPHA5]
+version: 1.0.0
+main: OPjoinplugin
+
+command: 
+        test:     
+         description: command to test plugin
+            usage: /test
+           
+ permissions: test.command.use
+                     Default:false
+ 
