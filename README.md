@@ -1,0 +1,2 @@
+# joinmessage
+My first plugin
